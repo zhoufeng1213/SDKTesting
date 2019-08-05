@@ -1,0 +1,27 @@
+project.ext {
+    java = [
+            javaVersion:JavaVersion.VERSION_1_8
+    ]
+    android = [
+            minSdkVersion:19,
+            targetSdkVersion:28,
+            compileSdkVersion:28,
+            minifyEnabled : true
+    ]
+
+
+
+
+
+}
+
+//def getJavaVersion(){
+//    switch (project.ext.javaVer){
+//        case "8":
+//            return JavaVersion.VERSION_1_8
+//            break;
+//        default:
+//            return JavaVersion.VERSION_1_7
+//            break
+//    }
+//}
