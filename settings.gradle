@@ -1,2 +1,2 @@
 include ':app', ':xwalkwebdemo'
-include ':X5WebDemo'
+

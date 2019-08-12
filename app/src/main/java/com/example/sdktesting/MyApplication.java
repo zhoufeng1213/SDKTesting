@@ -17,9 +17,9 @@ public class MyApplication extends Application {
 
 //        Intent intent = new Intent(this, X5NetService.class);
 //        startService(intent);
-
+        //非wifi情况下，主动下载x5内核
+        QbSdk.setDownloadWithoutWifi(true);
         //搜集本地tbs内核信息并上报服务器，服务器返回结果决定使用哪个内核。
-
         QbSdk.PreInitCallback cb = new QbSdk.PreInitCallback() {
 
             @Override

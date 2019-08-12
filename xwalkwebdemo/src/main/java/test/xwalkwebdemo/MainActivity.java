@@ -46,8 +46,8 @@ public class MainActivity extends XWalkActivity {
 //    private String mUrl = "https://sdk.ketianyun.com/sdk/testVideo.html";
 //    private String mUrl = "https://sdk.ketianyun.com/showcase/5.html";
 //    private String mUrl = "https://appr.tc/";
-    private String mUrl = "https://appr.tc/r/18629586538?vrc=H264&vsc=H264";
-//    private String mUrl = "https://appr.tc/r/roomid?vrc=H264&debug=loopback&vsc=H264";
+//    private String mUrl = "https://appr.tc/r/18629586538?vrc=H264&vsc=H264";
+    private String mUrl = "https://appr.tc/r/roomid?vrc=H264&debug=loopback&vsc=H264";
 
     private ProgressBar mPageLoadingProgressBar = null;
 

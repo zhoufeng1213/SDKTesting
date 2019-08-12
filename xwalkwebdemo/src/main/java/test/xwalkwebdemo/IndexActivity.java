@@ -25,8 +25,8 @@ public class IndexActivity extends Activity {
 //    private String mHomeUrl = "https://sdk.ketianyun.com/sdk/testVideo.html";
 //        	private static final String mHomeUrl = "https://sdk.ketianyun.com/sdk/camera.html";
 //	private static final String mHomeUrl = "https://webrtc.github.io/samples/src/content/devices/input-output/";
-    private static final String mHomeUrl = "https://appr.tc/";
-//    private static final String mHomeUrl = "https://appr.tc/r/roomid?vrc=H264&debug=loopback&vsc=H264";
+//    private static final String mHomeUrl = "https://appr.tc/";
+    private static final String mHomeUrl = "https://appr.tc/r/roomid?vrc=H264&debug=loopback&vsc=H264";
 //    private static final String mHomeUrl = "http://10.10.10.239:8000/testCamera.html";
 //    private static final String mHomeUrl = "https://catsanddogs.oss-cn-beijing.aliyuncs.com/faceTrance3.html";
 
